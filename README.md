@@ -5,7 +5,7 @@
   </head>
   <body>
    <center>
-     <img class="produto" src="https://i.ibb.co/B5pCtbgG/file-00000000178c720e855b5f60cfe87771.png" height="200px" width="200px">
+     <img class="produto" src="https://i.ibb.co/B5pCtbgG/file-00000000178c720e855b5f60cfe87771.png">
    </center>
 <center>
   <h1>CAFÉ VIGOR</h1>
