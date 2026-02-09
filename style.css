@@ -1,39 +1,61 @@
-body{
+body {
   background-image: url('https://i.ibb.co/wZXGLKP1/file-000000003ec0720e904a0b02130f4ab2.png');
   background-position: center;
+  background-size: cover; /* Adicionado para cobrir toda a tela */
+  background-repeat: no-repeat; /* Evita repetição da imagem */
+  text-align: center; /* Centraliza o texto e elementos inline */
+  margin: 0; /* Remove margens padrão */
+  padding: 0; /* Remove padding padrão */
+  font-family: Arial, sans-serif; /* Fonte padrão para o corpo */
 }
-h1{
+
+h1 {
   font-family: Georgia;
   font-style: italic;
+  color: white; /* Combinado das definições duplicadas */
 }
-p{
+
+h2 {
+  color: white;
+}
+
+p {
   font-style: italic;
   border: solid 5px red;
-  color:white;
+  color: white;
+  margin: 20px auto; /* Centraliza e adiciona margem */
+  max-width: 80%; /* Limita largura para melhor leitura */
+  padding: 10px; /* Adiciona padding interno */
 }
-button{
+
+button {
   height: 100px;
   width: 200px;
   background: brown;
   border: solid 5px;
   border-radius: 20px;
+  display: inline-block; /* Garante que os botões fiquem lado a lado se necessário */
+  margin: 10px; /* Espaçamento entre botões */
+  cursor: pointer; /* Cursor de ponteiro ao passar o mouse */
 }
-img{
+
+img {
   border: solid 5px black;
+  display: block; /* Para centralização */
+  margin: 20px auto; /* Centraliza horizontalmente */
+  max-width: 100%; /* Responsividade */
+  height: auto; /* Mantém proporção */
 }
-a{
+
+a {
   text-decoration: none;
   color: white;
 }
-h1{
-  color: white;
-}
-h2{
-  color: white;
-}
+
 .produto {
   border-radius: 100px;
 }
-.colorCod{
+
+.colorCod {
   color: white;
 }
