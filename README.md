@@ -1,40 +1,60 @@
-## Café Vigor
-
-  <head>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CAFÉ VIGOR</title>
     <link rel="stylesheet" href="style.css">
-  </head>
-  <body>
-   <center>
-     <img class="produto" src="https://i.ibb.co/B5pCtbgG/file-00000000178c720e855b5f60cfe87771.png">
-   </center>
-<center>
-  <h1>CAFÉ VIGOR</h1>
-</center>
-<center>
-  <h2>Nova marca no mercado conquistando tudo, me chame para saber mais</h2>
-</center>
-<center>
-  <p> OS PRODUTOS ESTARÃO A BAIXO</p>
-</center>
-<center>
-  <img src="https://i.im.ge/2024/07/17/V3UUJ8.fb28f858d1e14ebf8e6a700e55b97c1b.jpeg" width="200" height="200">
-  </center>
-  <center>
+    <style>
+        body {
+            text-align: center;
+        }
+        .produto {
+            display: block;
+            margin: 0 auto;
+            max-width: 100%;
+            height: auto;
+        }
+        img {
+            display: block;
+            margin: 0 auto;
+            max-width: 100%;
+            height: auto;
+        }
+        h1, h2, h3, p {
+            text-align: center;
+        }
+        button {
+            display: inline-block;
+            margin: 10px;
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            text-decoration: none;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button a {
+            color: white;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <img class="produto" src="https://i.ibb.co/B5pCtbgG/file-00000000178c720e855b5f60cfe87771.png" alt="Imagem do produto principal">
+    <h1>CAFÉ VIGOR</h1>
+    <h2>Nova marca no mercado conquistando tudo, me chame para saber mais</h2>
+    <p>OS PRODUTOS ESTARÃO A BAIXO</p>
+    <img src="https://i.im.ge/2024/07/17/V3UUJ8.fb28f858d1e14ebf8e6a700e55b97c1b.jpeg" alt="Café Tradicional 500g" width="200" height="200">
     <h2>Café Tradicional 500g</h2>
-  </center>
-  <p>É um café com um preparo unico caseiro com um sabor diferente, vem conquistando o mercado pelo seu sabor unico!</p>
-<center><h3 class="colorCod">R$12,90</h3></center>
-<center><img src="https://i.im.ge/2024/07/21/VR7wVh.Picsart-24-07-05-10-03-56-784.jpeg" width="200" height="200"><center/>
-<center><h2>CAFÉ GOURMET 500g</h2></center>
-<center><p>Com grãos totalmente selecionados, esse café com um sabor unico e inigualável vem atendendo os mercados com um preço imperdivel!</p></center>
-<center><h3 class="colorCod">VALOR ATACADO R$13,90</h3></center>
-<center><h2>⇩CLIQUE EM UM DOS BOTÕES ABAIXO⇩</h2></center>
-<center>
-  <button><a href="https://mywhats.net/VigorCafe"><strong>MEU WHATSAPP</strong>
-  </a>
-  </button>
-  </center><br>
-<center>
-  <button><a href="https://www.instagram.com/cafe_vigor?igsh=NjVtM2NwdzFoYXlm"><strong>MEU INSTAGRAM</strong></a></button></center><br>
+    <p>É um café com um preparo único caseiro com um sabor diferente, vem conquistando o mercado pelo seu sabor único!</p>
+    <h3 class="colorCod">R$12,90</h3>
+    <img src="https://i.im.ge/2024/07/21/VR7wVh.Picsart-24-07-05-10-03-56-784.jpeg" alt="CAFÉ GOURMET 500g" width="200" height="200">
+    <h2>CAFÉ GOURMET 500g</h2>
+    <p>Com grãos totalmente selecionados, esse café com um sabor único e inigualável vem atendendo os mercados com um preço imperdível!</p>
+    <h3 class="colorCod">VALOR ATACADO R$13,90</h3>
+    <h2>⇩CLIQUE EM UM DOS BOTÕES ABAIXO⇩</h2>
+    <button><a href="https://mywhats.net/VigorCafe"><strong>MEU WHATSAPP</strong></a></button><br>
+    <button><a href="https://www.instagram.com/cafe_vigor?igsh=NjVtM2NwdzFoYXlm"><strong>MEU INSTAGRAM</strong></a></button><br>
 </body>
 </html>
