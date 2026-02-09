@@ -1,5 +1,5 @@
 body {
-  background-image: url('https://i.ibb.co/wZXGLKP1/file-000000003ec0720e904a0b02130f4ab2.png');
+  background-image: url('https://i.ibb.co/wZXGLKP1/file-000000003ec0720e904a0b02130f4ab2.png') heght="100px" weight=""100px";
   background-position: center;
   background-size: cover; /* Adicionado para cobrir toda a tela */
   background-repeat: no-repeat; /* Evita repetição da imagem */
