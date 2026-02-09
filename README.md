@@ -4,41 +4,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CAFÉ VIGOR</title>
     <link rel="stylesheet" href="style.css">
-    <style>
-        body {
-            text-align: center;
-        }
-        .produto {
-            display: block;
-            margin: 0 auto;
-            max-width: 100%;
-            height: auto;
-        }
-        img {
-            display: block;
-            margin: 0 auto;
-            max-width: 100%;
-            height: auto;
-        }
-        h1, h2, h3, p {
-            text-align: center;
-        }
-        button {
-            display: inline-block;
-            margin: 10px;
-            padding: 10px 20px;
-            background-color: #4CAF50;
-            color: white;
-            text-decoration: none;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-        }
-        button a {
-            color: white;
-            text-decoration: none;
-        }
-    </style>
 </head>
 <body>
     <img class="produto" src="https://i.ibb.co/B5pCtbgG/file-00000000178c720e855b5f60cfe87771.png" alt="Imagem do produto principal">
