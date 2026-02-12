@@ -1,25 +1,104 @@
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CAFÉ VIGOR</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <img class="produto" src="https://i.ibb.co/B5pCtbgG/file-00000000178c720e855b5f60cfe87771.png" alt="Imagem do produto principal">
-    <h1>CAFÉ VIGOR</h1>
-    <h2>Nova marca no mercado conquistando tudo, me chame para saber mais</h2>
-    <p>OS PRODUTOS ESTARÃO A BAIXO</p>
-    <img src="https://i.im.ge/2024/07/17/V3UUJ8.fb28f858d1e14ebf8e6a700e55b97c1b.jpeg" alt="Café Tradicional 500g" width="200" height="200">
-    <h2>Café Tradicional 500g</h2>
-    <p>É um café com um preparo único caseiro com um sabor diferente, vem conquistando o mercado pelo seu sabor único!</p>
-    <h3 class="colorCod">R$12,90</h3>
-    <img src="https://i.im.ge/2024/07/21/VR7wVh.Picsart-24-07-05-10-03-56-784.jpeg" alt="CAFÉ GOURMET 500g" width="200" height="200">
-    <h2>CAFÉ GOURMET 500g</h2>
-    <p>Com grãos totalmente selecionados, esse café com um sabor único e inigualável vem atendendo os mercados com um preço imperdível!</p>
-    <h3 class="colorCod">VALOR ATACADO R$13,90</h3>
-    <h2>⇩CLIQUE EM UM DOS BOTÕES ABAIXO⇩</h2>
-    <button><a href="https://mywhats.net/VigorCafe"><strong>MEU WHATSAPP</strong></a></button><br>
-    <button><a href="https://www.instagram.com/cafe_vigor?igsh=NjVtM2NwdzFoYXlm"><strong>MEU INSTAGRAM</strong></a></button><br>
-</body>
-</html>
+# ☕ CAFÉ VIGOR
+
+> Sabor, intensidade e qualidade em cada grão.
+
+---
+
+## 📖 Sobre o Projeto
+
+O **Café Vigor** é uma página institucional criada para divulgar os produtos da marca, destacando qualidade, sabor único e preço competitivo.
+
+A proposta do site é apresentar de forma moderna e profissional:
+
+- ☕ Café Tradicional 500g  
+- ☕ Café Gourmet 500g  
+- 📲 Contato direto via WhatsApp  
+- 📸 Divulgação via Instagram  
+
+---
+
+## 🚀 Objetivo
+
+Desenvolver uma página simples, responsiva e estratégica para:
+
+- Divulgar os produtos da marca
+- Gerar conversão direta via WhatsApp
+- Fortalecer presença digital
+- Criar autoridade visual da marca
+
+---
+
+## 🛍 Produtos
+
+### ☕ Café Tradicional 500g
+- Preparo especial
+- Aroma marcante
+- Sabor autêntico
+- 💰 R$ 12,90
+
+### ☕ Café Gourmet 500g
+- Grãos selecionados
+- Padrão premium
+- Experiência refinada
+- 💰 Atacado: R$ 13,90
+
+---
+
+## 🛠 Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- Estrutura semântica moderna
+- Responsividade para Mobile e Desktop
+
+---
+
+## 📱 Contato
+
+📲 WhatsApp:  
+👉 https://mywhats.net/VigorCafe  
+
+📸 Instagram:  
+👉 https://www.instagram.com/cafe_vigor  
+
+---
+
+## 📂 Estrutura do Projeto
+
+```
+/cafe-vigor
+│── index.html
+│── style.css
+│── README.md
+```
+
+---
+
+## 🎯 Diferenciais
+
+✔ Estrutura profissional  
+✔ SEO básico implementado  
+✔ Layout organizado por seções  
+✔ Botões estratégicos de conversão  
+✔ Base pronta para expansão futura  
+
+---
+
+## 🌟 Próximos Passos
+
+- [ ] Implementar carrinho de compras
+- [ ] Adicionar animações modernas
+- [ ] Melhorar estratégia de conversão
+- [ ] Versão com backend para pedidos
+
+---
+
+## © Licença
+
+Projeto desenvolvido para a marca **Café Vigor**.  
+Todos os direitos reservados.
+
+---
+
+# ☕ Café Vigor  
+### Energia que move seu dia.
